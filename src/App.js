@@ -5,17 +5,17 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
+        <img src="img/civilgeo_logo.webp" className="App-logo" alt="logo" />
         <p>
-          Edit <code>src/App.js</code> and save to reload.
+          New CivilGEO Website is coming soon.
         </p>
         <a
           className="App-link"
-          href="https://reactjs.org"
+          href="https://www.civilgeo.com/"
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React
+          CivilGEO Official
         </a>
       </header>
     </div>
